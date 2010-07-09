@@ -1,0 +1,32 @@
+body {
+  padding-top: 1.2em;
+}
+
+a, a:visited {
+  text-decoration: none;
+}
+
+ul {
+  text-align: left;
+  list-style-type: none;
+}
+
+li, a, a:visited {
+  font-family: Helvetica, sans-serif;
+  line-height: 1.4em;
+  color:#0099FF; 
+  color:#99A7AF;
+  font-style:normal;
+  font-weight:normal;
+  font-size:30px;
+}
+
+.n {
+  font-weight: bold;
+  font-family: Helvetica Neue;
+}
+
+.h {
+  font-weight: bold;
+  font-family: Helvetica; 
+}
